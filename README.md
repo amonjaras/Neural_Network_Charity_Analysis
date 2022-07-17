@@ -57,7 +57,7 @@ For this Challenge, we'll need to perform the analysis as the following:
 
 1. **Processing Data**
 
-✅  **[AlphabetSoup]**(https://github.com/amonjaras/Neural_Network_Charity_Analysis/blob/main/M19_Challenge/AlphabetSoupCharity.ipynb)
+✅  **[AlphabetSoup](https://github.com/amonjaras/Neural_Network_Charity_Analysis/blob/main/M19_Challenge/AlphabetSoupCharity.ipynb)**
 
 Below the remarks for this point:
 
@@ -85,7 +85,7 @@ We performed 3 attempts to optimize the model and improve the accuracy as follow
 
 #### **Attempt 1**
 
-✅  **[Optimized1]**(https://github.com/amonjaras/Neural_Network_Charity_Analysis/blob/main/M19_Challenge/AlphabetSoupCharity_Optimization.ipynb)
+✅  **[Optimized1](https://github.com/amonjaras/Neural_Network_Charity_Analysis/blob/main/M19_Challenge/AlphabetSoupCharity_Optimization.ipynb)**
 
 1. **Processing Data**
 
@@ -110,7 +110,7 @@ The model was not able to achieve the target of **75%**. The result of this eval
 
 #### **Attempt 2**
 
-✅  **[Optimized2]**(https://github.com/amonjaras/Neural_Network_Charity_Analysis/blob/main/M19_Challenge/AlphabetSoupCharity_Optimization2.ipynb)
+✅  **[Optimized2](https://github.com/amonjaras/Neural_Network_Charity_Analysis/blob/main/M19_Challenge/AlphabetSoupCharity_Optimization2.ipynb)**
 
 1. **Processing Data**
 
@@ -137,7 +137,7 @@ The model was not able to achieve the target of **75%**. The result of this eval
 
 #### **Attempt 3**
 
-✅  **[Optimized3]**(https://github.com/amonjaras/Neural_Network_Charity_Analysis/blob/main/M19_Challenge/AlphabetSoupCharity_Optimization3.ipynb)
+✅  **[Optimized3](https://github.com/amonjaras/Neural_Network_Charity_Analysis/blob/main/M19_Challenge/AlphabetSoupCharity_Optimization3.ipynb)**
 
 1. **Processing Data**
 

@@ -57,6 +57,8 @@ For this Challenge, we'll need to perform the analysis as the following:
 
 1. **Processing Data**
 
+✅  **[AlphabetSoup]**(https://github.com/amonjaras/Neural_Network_Charity_Analysis/blob/main/M19_Challenge/AlphabetSoupCharity.ipynb)
+
 Below the remarks for this point:
 
 - Variables dropped: `EIN` and `NAME`
@@ -73,7 +75,7 @@ Below the remarks for this point:
 
 **Was this model able to achieve the target?**
 
-The model was not able to achieve the target of **75%**. The result of this evaluation is around **73%**
+The model was not able to achieve the target of **75%**. The result of this evaluation is **72.6%**
 
 ![model](https://github.com/amonjaras/Neural_Network_Charity_Analysis/blob/main/M19_Challenge/Images/model.png)
 
@@ -82,6 +84,8 @@ The model was not able to achieve the target of **75%**. The result of this eval
 We performed 3 attempts to optimize the model and improve the accuracy as follows:
 
 #### **Attempt 1**
+
+✅  **[Optimized1]**(https://github.com/amonjaras/Neural_Network_Charity_Analysis/blob/main/M19_Challenge/AlphabetSoupCharity_Optimization.ipynb)
 
 1. **Processing Data**
 
@@ -100,11 +104,13 @@ Below the remarks for this point:
 
 **Was this model able to achieve the target?**
 
-The model was not able to achieve the target of **75%**. The result of this evaluation is around **73%**
+The model was not able to achieve the target of **75%**. The result of this evaluation is **72.3%**
 
 ![att1](https://github.com/amonjaras/Neural_Network_Charity_Analysis/blob/main/M19_Challenge/Images/opt1.png)
 
 #### **Attempt 2**
+
+✅  **[Optimized2]**(https://github.com/amonjaras/Neural_Network_Charity_Analysis/blob/main/M19_Challenge/AlphabetSoupCharity_Optimization2.ipynb)
 
 1. **Processing Data**
 
@@ -125,11 +131,13 @@ Below the remarks for this point:
 
 **Was this model able to achieve the target?**
 
-The model was not able to achieve the target of **75%**. The result of this evaluation is around **72%**
+The model was not able to achieve the target of **75%**. The result of this evaluation is **72.3%**
 
 ![att2](https://github.com/amonjaras/Neural_Network_Charity_Analysis/blob/main/M19_Challenge/Images/opt2.png)
 
 #### **Attempt 3**
+
+✅  **[Optimized3]**(https://github.com/amonjaras/Neural_Network_Charity_Analysis/blob/main/M19_Challenge/AlphabetSoupCharity_Optimization3.ipynb)
 
 1. **Processing Data**
 
